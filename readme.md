@@ -3,4 +3,5 @@
 **Note** : Replace the MongoDB connection string with your own URL
 
 ###To run it locally use the following commands:
-```npm app.js```
+```npm install```
+```node app.js```
